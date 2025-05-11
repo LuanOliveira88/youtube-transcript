@@ -10,7 +10,7 @@ Clone o repositório e instale as dependências:
 
 ```bash
 git clone https://github.com/LuanOliveira88/youtube-transcript
-cd youtube-transcription
+cd youtube-transcript
 pip install -r requirements.txt
 ```
 
